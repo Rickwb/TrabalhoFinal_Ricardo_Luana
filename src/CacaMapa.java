@@ -1,7 +1,7 @@
 public class CacaMapa {
 
-    private short qtLinha;
-    private short qtdColuna;
+    private final short qtLinha;
+    private final short qtdColuna;
     private char[][] mapa;
 
     public CacaMapa() {

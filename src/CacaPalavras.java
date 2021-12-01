@@ -1,8 +1,8 @@
 public class CacaPalavras {
 
-    private short qtLinha;
+    private final short qtLinha;
 
-    private short qtColuna;
+    private final short qtColuna;
 
     private String[][] palavras;
 
